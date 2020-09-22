@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Myfirstpage",
+    "description": "",
+    "home_page_url": "https://gitlab.com/philippeolivierdelia0102/popcornflix.git",
+    "feed_url": "https://gitlab.com/philippeolivierdelia0102/popcornflix.git/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Philippe"
+    },
+    "items": [
+        {
+            "id": "https://gitlab.com/philippeolivierdelia0102/popcornflix.git/mulan.html",
+            "url": "https://gitlab.com/philippeolivierdelia0102/popcornflix.git/mulan.html",
+            "title": "Mulan",
+            "summary": "MulanSynopsisFearful that her ailing father will be drafted into the Chinese military, Mulan (Ming-Na Wen) takes his spot -- though, as a girl living under a patriarchal regime, she is technically unqualified to serve. She cleverly impersonates a man and goes off to train with&hellip;",
+            "content_html": "<figure class=\"post__image post__image--center\" ><img loading=\"lazy\" src=\"https://gitlab.com/philippeolivierdelia0102/popcornflix.git/media/posts/1/mulan.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://gitlab.com/philippeolivierdelia0102/popcornflix.git/media/posts/1/responsive/mulan-xs.jpg 300w ,https://gitlab.com/philippeolivierdelia0102/popcornflix.git/media/posts/1/responsive/mulan-sm.jpg 480w ,https://gitlab.com/philippeolivierdelia0102/popcornflix.git/media/posts/1/responsive/mulan-md.jpg 768w ,https://gitlab.com/philippeolivierdelia0102/popcornflix.git/media/posts/1/responsive/mulan-lg.jpg 1024w ,https://gitlab.com/philippeolivierdelia0102/popcornflix.git/media/posts/1/responsive/mulan-xl.jpg 1360w ,https://gitlab.com/philippeolivierdelia0102/popcornflix.git/media/posts/1/responsive/mulan-2xl.jpg 1600w\"  alt=\"Mulan Poster\" width=\"1013\" height=\"1500\">\n<figcaption >Mulan</figcaption>\n</figure>\n<h3>Synopsis</h3>\n<p>Fearful that her ailing father will be drafted into the Chinese military, Mulan (Ming-Na Wen) takes his spot -- though, as a girl living under a patriarchal regime, she is technically unqualified to serve. She cleverly impersonates a man and goes off to train with fellow recruits. Accompanied by her dragon, Mushu (Eddie Murphy), she uses her smarts to help ward off a Hun invasion, falling in love with a dashing captain along the way.</p>\n<p><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/KK8FHdFluOQ\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen=\"allowfullscreen\"></iframe></div></p>",
+            "author": {
+                "name": "Philippe"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-09-22T17:55:45-04:00",
+            "date_modified": "2020-09-22T17:55:45-04:00"
+        }
+    ]
+}
