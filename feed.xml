@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Myfirstpage</title>
-    <link href="https://gitlab.com/philippeolivierdelia0102/popcornflix.git/feed.xml" rel="self" />
-    <link href="https://gitlab.com/philippeolivierdelia0102/popcornflix.git" />
+    <link href="https://philippeolivierdelia0102.github.io/popcornflix/feed.xml" rel="self" />
+    <link href="https://philippeolivierdelia0102.github.io/popcornflix" />
     <updated>1969-12-31T19:00:00-05:00</updated>
     <author>
         <name>Philippe</name>
     </author>
-    <id>https://gitlab.com/philippeolivierdelia0102/popcornflix.git</id>
+    <id>https://philippeolivierdelia0102.github.io/popcornflix</id>
 
     <entry>
         <title>Mulan</title>
         <author>
             <name>Philippe</name>
         </author>
-        <link href="https://gitlab.com/philippeolivierdelia0102/popcornflix.git/mulan.html"/>
-        <id>https://gitlab.com/philippeolivierdelia0102/popcornflix.git/mulan.html</id>
+        <link href="https://philippeolivierdelia0102.github.io/popcornflix/mulan.html"/>
+        <id>https://philippeolivierdelia0102.github.io/popcornflix/mulan.html</id>
 
-        <updated>2020-09-22T17:55:45-04:00</updated>
+        <updated>2020-09-22T17:56:58-04:00</updated>
             <summary>
                 <![CDATA[
                     MulanSynopsisFearful that her ailing father will be drafted into the Chinese military, Mulan (Ming-Na Wen) takes his spot -- though, as a girl living under a patriarchal regime, she is technically unqualified to serve. She cleverly impersonates a man and goes off to train with&hellip;
@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--center" ><img loading="lazy" src="https://gitlab.com/philippeolivierdelia0102/popcornflix.git/media/posts/1/mulan.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://gitlab.com/philippeolivierdelia0102/popcornflix.git/media/posts/1/responsive/mulan-xs.jpg 300w ,https://gitlab.com/philippeolivierdelia0102/popcornflix.git/media/posts/1/responsive/mulan-sm.jpg 480w ,https://gitlab.com/philippeolivierdelia0102/popcornflix.git/media/posts/1/responsive/mulan-md.jpg 768w ,https://gitlab.com/philippeolivierdelia0102/popcornflix.git/media/posts/1/responsive/mulan-lg.jpg 1024w ,https://gitlab.com/philippeolivierdelia0102/popcornflix.git/media/posts/1/responsive/mulan-xl.jpg 1360w ,https://gitlab.com/philippeolivierdelia0102/popcornflix.git/media/posts/1/responsive/mulan-2xl.jpg 1600w"  alt="Mulan Poster" width="1013" height="1500">
+                <figure class="post__image post__image--center" ><img loading="lazy" src="https://philippeolivierdelia0102.github.io/popcornflix/media/posts/1/mulan.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://philippeolivierdelia0102.github.io/popcornflix/media/posts/1/responsive/mulan-xs.jpg 300w ,https://philippeolivierdelia0102.github.io/popcornflix/media/posts/1/responsive/mulan-sm.jpg 480w ,https://philippeolivierdelia0102.github.io/popcornflix/media/posts/1/responsive/mulan-md.jpg 768w ,https://philippeolivierdelia0102.github.io/popcornflix/media/posts/1/responsive/mulan-lg.jpg 1024w ,https://philippeolivierdelia0102.github.io/popcornflix/media/posts/1/responsive/mulan-xl.jpg 1360w ,https://philippeolivierdelia0102.github.io/popcornflix/media/posts/1/responsive/mulan-2xl.jpg 1600w"  alt="Mulan Poster" width="1013" height="1500">
 <figcaption >Mulan</figcaption>
 </figure>
 <h3>Synopsis</h3>
